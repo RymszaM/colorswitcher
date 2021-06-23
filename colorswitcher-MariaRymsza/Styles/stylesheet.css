@@ -1,0 +1,21 @@
+h3 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold; 
+}
+
+.buttons {
+    margin: 0px 5px 0px 30px;
+    padding-top:5px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
